@@ -29,14 +29,20 @@ h3{
 }
 .bottom-container{
     padding-top: 30px;
-    background-color: aqua;
+    background-color: #bff4ed;
     width: 70%;
     align-items: center;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
     padding-bottom: 5px;
-    border-radius: 10%;
+    border-radius: 30%;
+}
+.gif{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
 }
     
 .topcloud
