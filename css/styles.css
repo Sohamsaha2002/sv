@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    background-color: #96eada;
+    
+}
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.topcontainer{
+    padding-top: 100px;
+    background-color: #96eada;
+    position: relative;
+}
+.middle-container{
+    background-color:lightblue;
+    border-radius: 20%;
+}
+.bottom-container{
+    padding-top: 30px;
+    background-color: aqua;
+    width: 70%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding-bottom: 5px;
+    border-radius: 10%;
+}
+    
+.topcloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottomcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.propic{
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+}
+.programing{
+    width: 400px;
+    height: 400px;
+}
+.cyber{
+    width: 400px;
+    height: 400px;
+    padding-top: 30px;
+}
+.logo{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+    width: 30px;
+    height: 30px;
+}
+#contact{
+    background-color: lightpink;
+    border-radius: 30%;
+    display: inline-block;
+    width: 180px;
+    height: 30px;
+    padding-bottom: 5px;
+}
+#in{
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+hr{
+    border-style:none;
+    border-color:grey;
+    border-top-style:dotted;
+    border-width:6px;
+    width:7%;
+
+}
