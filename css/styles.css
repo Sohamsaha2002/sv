@@ -5,18 +5,25 @@ body{
     margin-bottom: 0px;
     padding-bottom: 0px;
     background-color: #96eada;
+    font-size: 200%;	
     
 }
 h1{
-    margin-top: 0;
+    margin-top: 20px;
+    margin-bottom: 10px;
     font-family: 'Sacramento', cursive;
-    font-size: 80px;
+    font-size: 5.625rem;
+    color: #66BFBF;
 }
 h2{
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.2rem;
+    color: #66BFBF;
 }
 h3{
     font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+    margin-top: 5px;
 }
 .topcontainer{
     padding-top: 100px;
